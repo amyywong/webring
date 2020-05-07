@@ -1,0 +1,43 @@
+body{
+  background-color:  #e98a98;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-size: 100px;
+  color: #1e4366;
+  position: absolute;
+  left: 10%;
+}
+
+#Links{
+font-family: 'Bebas Neue', cursive;
+font-size: 30px;
+color:  #1e4366;
+position: absolute;
+top: 30%;
+left: 10%;
+}
+
+a:link {
+  color: #1e4366;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #1e4366;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #1e4366;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #1e4366;
+  text-decoration: none;
+}

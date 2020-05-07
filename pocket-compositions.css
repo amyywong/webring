@@ -1,0 +1,168 @@
+body{
+  overflow: scroll;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 100px;
+  margin-top: 0%;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  line-height: 2px;
+  top: 20%:
+
+}
+#square{
+  width: 200px;
+  height: 130px;
+  background-color: black;
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
+#square2{
+  width: 150px;
+  height: 50px;
+  background-color: #9e4d74;
+  position: absolute;
+  top: 40%;
+  left: 70%;
+}
+#square3{
+  width: 100px;
+  height: 10000px;
+  background-color: black;
+  position: absolute;
+  top: 20%;
+  left: 62%;
+}
+#square4{
+  width: 50px;
+  height: 50px;
+  background-color: #963866;
+  position: absolute;
+  top: 49%;
+  left: 70%;
+}
+#square5{
+  width: 30px;
+  height: 30px;
+  background-color: #6c143f;
+  position: absolute;
+  top: 59%;
+  left: 70%;
+}
+#square6{
+  width: 100px;
+  height: 300px;
+  background-color: #9e4d74;
+  position: absolute;
+  top: 20%;
+  left: 54%;
+}
+.song-name{
+  font-family: 'Teko', sans-serif;
+  font-size: 50px;
+}
+
+.lyrics{
+  font-family: 'Zilla Slab', serif;
+  font-size: 20px;
+line-height: 5px;
+overflow: scroll;
+height: 200px;
+}
+#lie{
+  position: absolute;
+  top: 70%;
+}
+#lie-lyrics{
+  position: absolute;
+  top: 80%;
+  background-color: #534f4f;
+  color: white;
+
+}
+
+#drunk{
+  position: absolute;
+  top: 110%
+}
+#drunk-lyrics{
+  position: absolute;
+  top: 120%;
+  background-color: white;
+}
+
+#alllove{
+  position: absolute;
+  top: 150%;
+
+}
+#love-lyrics{
+  position: absolute;
+  top: 160%;
+  background-color: #534f4f;
+  color: white;
+}
+
+#about{
+  position: absolute;
+  top: 190%;
+}
+
+#about-lyrics{
+  position: absolute;
+  top: 200%;
+  background-color: white;
+}
+
+#strangers{
+  position: absolute;
+  top: 230%;
+}
+
+#strangers-lyrics{
+  position: absolute;
+  top: 240%;
+  background-color: #534f4f;
+  color: white;
+}
+@media screen and (max-width: 768px) {
+
+  body{
+background-color: black;
+
+}
+  }
+
+@media screen and (max-width: 768px){
+  #strangers-lyrics{
+    background-color: #90dfd8;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #about-lyrics{
+    background-color: #ec8a23;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #love-lyrics{
+    background-color: #6327b1;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #drunk-lyrics{
+    background-color: #3be8a1;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #lie-lyrics{
+    background-color: #d73b94;
+  }
+}

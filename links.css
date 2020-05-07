@@ -1,0 +1,40 @@
+body{
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-size: 30px;
+  background-color: #e98a98;
+}
+.part2{
+  position: absolute;
+  left: 64%;
+  top: 30%;
+}
+.part1{
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: white;
+  text-decoration: none;
+}

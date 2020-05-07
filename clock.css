@@ -1,0 +1,482 @@
+body{
+  font-family: 'Barlow Condensed';
+  height: 100vh;
+  overflow: hidden;
+}
+
+#scrollable_content{
+  position: absolute;
+  width: 100vw;
+  height: 140vh;
+  top: 0;
+  transform: translateY(0px);
+}
+
+h1{
+  font-size: 15px;
+  font-family: 'Quicksand';
+  position: fixed;
+  left: 90%;
+
+
+}
+h2{
+  font-size: 15px;
+  font-family: 'Quicksand';
+  position: fixed;
+  left: 90%;
+  top: 5%;
+}
+.line{
+  width: 2px;
+  height: 300px;
+  background-color: black;
+  position: absolute;
+}
+
+
+.heart{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+top: 39%;
+left: 50%;
+
+}
+.text{
+  position: relative;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 50%;
+  left: 46%;
+}
+
+#one{
+  top: 75%;
+  left: 51%;
+}
+
+
+}
+.heart2{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 130%;
+  left: 50%;
+
+}
+
+.text2{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 140%;
+  left: 46%;
+}
+
+#two{
+  top: 170%;
+  left: 51%;
+}
+
+.heart3{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 225%;
+  left: 50%;
+}
+
+.text3{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 235%;
+  left: 46%;
+}
+
+#three{
+  top: 275%;
+  left: 51%;
+}
+
+.heart4{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 330%;
+  left: 50%;
+}
+
+.text4{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 340%;
+  left: 46%;
+}
+
+#four{
+top: 380%;
+left: 51%;
+}
+
+.heart5{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 440%;
+  left: 50%;
+}
+
+.text5{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 450%;
+  left: 46%;
+}
+
+#five{
+top: 485%;
+left: 51%;
+}
+
+.heart6{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 540%;
+  left: 50%;
+}
+
+.text6{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 550%;
+  left: 46%;
+}
+
+#six{
+top: 590%;
+left: 51%;
+}
+
+.heart7{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 650%;
+  left: 50%;
+}
+
+.text7{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 660%;
+  left: 46%;
+}
+
+#seven{
+top: 710%;
+left: 51%;
+}
+
+.heart8{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 770%;
+  left: 50%;
+}
+
+.text8{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 780%;
+  left: 46%;
+}
+
+#eight{
+top: 820%;
+left: 51%;
+}
+
+.heart9{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 880%;
+  left: 50%;
+}
+
+.text9{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 890%;
+  left: 46%;
+}
+
+#nine{
+top: 940%;
+left: 51%;
+}
+
+.heart10{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 995%;
+  left: 50%;
+}
+
+.text10{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1005%;
+  left: 46%;
+}
+
+#ten{
+top: 1060%;
+left: 51%;
+}
+
+.heart11{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 1114%;
+  left: 50%;
+
+}
+
+.text11{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1125%;
+  left: 46%;
+}
+
+#eleven{
+  top: 1300%;
+  left: 51%;
+  height: 400px;
+}
+
+.heart12{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 1230%;
+  left: 50%;
+}
+
+.text12{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1240%;
+  left: 46%;
+}
+
+#twelve{
+  top: 1175%;
+  left: 51%;
+}
+
+.heart13{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 1375%;
+  left: 50%;
+}
+.text13{
+position: absolute;
+font-size: 20px;
+width: 150px;
+height: 150px;
+top: 1385%;
+left: 46%;
+}
+
+#thirteen{
+top: 1440%;
+left: 51%;
+}
+
+.heart14{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 1490%;
+  left: 50%;
+}
+
+.text14{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1500%;
+  left: 46%;
+}
+
+#fourteen{
+top: 1540%;
+left: 51%;
+}
+
+.heart15{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 1590%;
+  left: 50%;
+}
+
+.text15{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1600%;
+  left: 46%;
+}
+
+#fifteen{
+top: 1650%;
+left: 51%;
+height: 220px;
+
+}
+
+.heart16{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #e27391;
+  position: absolute;
+  top: 1700%;
+  left: 50%;
+
+}
+.text16{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1715%;
+  left: 46%;
+}
+
+#sixteen{
+  top: 1780%;
+  left: 51%;
+}
+
+.heart17{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #0a1746;
+  position: absolute;
+  top: 1835%;
+  left: 50%;
+
+}
+
+.text17{
+  position: absolute;
+  font-size: 20px;
+  width: 150px;
+  height: 150px;
+  top: 1850%;
+  left: 46%;
+
+}
+
+.myLink{
+  font-size: 2rem;
+  padding: 1rem;
+position: absolute;
+top: 1850%;
+left: 39%;
+}
+
+.myLink:visited{
+  color: red;
+}
+
+.myLink:hover{
+  background-color: #e037ac;
+}
+
+.myLink:active{
+  background-color: #45f2c9;
+  /* works when kept after focus because it overrides */
+}
+.myLink:focus{
+background-color: #f9cf53;
+}
+
+input{
+  color: white;
+}
+
+#seventeen{
+  top: 1880%;
+  height: 200px;
+  left: 52%;
+  background-color: white;
+}
